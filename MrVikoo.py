@@ -175,7 +175,7 @@ def _jeckoramadhan_ganz_():
         print '\n\n %s[+]%s Selamat Datang %s%s%s'%(B,P,K,nama,N);time.sleep(2)
         
         open('.almiraXjeeck.txt', 'w').write(lalalalaganigani)
-        raw_input(' %s[%s+%s]%s ENTER  '%(B,P,B,P));Viko_bot_kom(lalalalaganigani)
+        raw_input(' %s[%s+%s]%s ENTER  '%(B,P,B,P));jeeck_bot_kom(lalalalaganigani)
         
         ___viko___xfarhan___xxz___()
 
