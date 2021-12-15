@@ -104,7 +104,7 @@ k='\033[0;90m'
 x="\033[00m"                                                            #FARHAN LOVE VIKO         
 jeeck_warna = [
 N,O,U,B,K,H,M,P,p,b,m] # Warna untuk pemanggilan %s ( N ) Kontoll
-warna = random.choice(viko_warna)
+warna = random.choice(jeeck_warna)
 
 
 ok = []
