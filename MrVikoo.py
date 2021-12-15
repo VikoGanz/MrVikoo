@@ -1066,5 +1066,5 @@ def hasil(ok,cp):
 
 if __name__ == '__main__':
     os.system('git pull')
-    ___viko___xfarhan___xxz___()
+    ___jeeck___xnano___xxz___()
     # STOPP RECODE 
