@@ -140,7 +140,7 @@ viko_banner = '''
 '''
 
 
-def _vikofebrian_ganz_():
+def _jeckoramadhan_ganz_():
 #    os.system('clear')
     os.system('clear')
     print ("  ______ ____   __ __ _______   __")
